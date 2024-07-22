@@ -35,5 +35,7 @@
   "exclude": [
     "node_modules",
     "dist"
-  ]
+  ],
+  "emitDecoratorMetadata": true,
+  "experimentalDecorators": true
 }
